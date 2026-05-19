@@ -89,9 +89,9 @@ open a machine terminal in your `Repos` folder:
 
 ```shell
 # Replace username with YOUR GitHub username.
-git clone https://github.com/username/datafun-02-automation
+git clone https://github.com/sum-randow/data-fun-02-automation
 
-cd datafun-02-automation
+cd data-fun-02-automation
 code .
 ```
 
