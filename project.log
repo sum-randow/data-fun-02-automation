@@ -537,3 +537,173 @@
 2026-05-20 18:49:50 | INFO | P02 | ========================
 2026-05-20 18:49:50 | INFO | P02 | Executed successfully!
 2026-05-20 18:49:50 | INFO | P02 | ========================
+2026-05-21 16:27:48 | INFO | P02 | === RUN START ===
+2026-05-21 16:27:48 | INFO | P02 | project=P02
+2026-05-21 16:27:48 | INFO | P02 | repo_dir=data-fun-02-automation
+2026-05-21 16:27:48 | INFO | P02 | python=3.14.5
+2026-05-21 16:27:48 | INFO | P02 | os=Darwin 24.6.0
+2026-05-21 16:27:48 | INFO | P02 | shell=zsh
+2026-05-21 16:27:48 | INFO | P02 | cwd=.
+2026-05-21 16:27:48 | INFO | P02 | github_actions=False
+2026-05-21 16:27:48 | INFO | P02 | ========================
+2026-05-21 16:27:48 | INFO | P02 | START main()
+2026-05-21 16:27:48 | INFO | P02 | ========================
+2026-05-21 16:27:48 | INFO | P02 | ========================
+2026-05-21 16:27:48 | INFO | P02 | FUNCTION 2: for loop over a list
+2026-05-21 16:27:48 | INFO | P02 | ========================
+2026-05-21 16:27:48 | INFO | P02 | Pet list: ['Grading', 'Parent_Contact_Log', 'PLC', 'Extra_Duties']
+2026-05-21 16:27:48 | INFO | P02 | Wrote file: a_Grading.txt
+2026-05-21 16:27:48 | INFO | P02 | Wrote file: a_Parent_Contact_Log.txt
+2026-05-21 16:27:48 | INFO | P02 | Wrote file: a_PLC.txt
+2026-05-21 16:27:48 | INFO | P02 | Wrote file: a_Extra_Duties.txt
+2026-05-21 16:27:48 | INFO | P02 | ========================
+2026-05-21 16:27:48 | INFO | P02 | FUNCTION 3: list comprehension
+2026-05-21 16:27:48 | INFO | P02 | ========================
+2026-05-21 16:27:48 | INFO | P02 | Original list: ['Grading', 'Parent_Contact_Log', 'PLC', 'Extra_Duties']
+2026-05-21 16:28:47 | INFO | P02 | === RUN START ===
+2026-05-21 16:28:47 | INFO | P02 | project=P02
+2026-05-21 16:28:47 | INFO | P02 | repo_dir=data-fun-02-automation
+2026-05-21 16:28:47 | INFO | P02 | python=3.14.5
+2026-05-21 16:28:47 | INFO | P02 | os=Darwin 24.6.0
+2026-05-21 16:28:47 | INFO | P02 | shell=zsh
+2026-05-21 16:28:47 | INFO | P02 | cwd=.
+2026-05-21 16:28:47 | INFO | P02 | github_actions=False
+2026-05-21 16:28:47 | INFO | P02 | ========================
+2026-05-21 16:28:47 | INFO | P02 | START main()
+2026-05-21 16:28:47 | INFO | P02 | ========================
+2026-05-21 16:28:47 | INFO | P02 | ========================
+2026-05-21 16:28:47 | INFO | P02 | FUNCTION 2: for loop over a list
+2026-05-21 16:28:47 | INFO | P02 | ========================
+2026-05-21 16:28:47 | INFO | P02 | Pet list: ['Grading', 'Parent_Contact_Log', 'PLC', 'Extra_Duties']
+2026-05-21 16:28:47 | INFO | P02 | Wrote file: a_Grading.txt
+2026-05-21 16:28:47 | INFO | P02 | Wrote file: a_Parent_Contact_Log.txt
+2026-05-21 16:28:47 | INFO | P02 | Wrote file: a_PLC.txt
+2026-05-21 16:28:47 | INFO | P02 | Wrote file: a_Extra_Duties.txt
+2026-05-21 16:28:47 | INFO | P02 | ========================
+2026-05-21 16:28:47 | INFO | P02 | FUNCTION 3: list comprehension
+2026-05-21 16:28:47 | INFO | P02 | ========================
+2026-05-21 16:28:47 | INFO | P02 | Original list: ['Grading', 'Parent_Contact_Log', 'PLC', 'Extra_Duties']
+2026-05-21 16:32:34 | INFO | P02 | === RUN START ===
+2026-05-21 16:32:34 | INFO | P02 | project=P02
+2026-05-21 16:32:34 | INFO | P02 | repo_dir=data-fun-02-automation
+2026-05-21 16:32:34 | INFO | P02 | python=3.14.5
+2026-05-21 16:32:34 | INFO | P02 | os=Darwin 24.6.0
+2026-05-21 16:32:34 | INFO | P02 | shell=zsh
+2026-05-21 16:32:34 | INFO | P02 | cwd=.
+2026-05-21 16:32:34 | INFO | P02 | github_actions=False
+2026-05-21 16:32:34 | INFO | P02 | ========================
+2026-05-21 16:32:34 | INFO | P02 | START main()
+2026-05-21 16:32:34 | INFO | P02 | ========================
+2026-05-21 16:32:34 | INFO | P02 | ========================
+2026-05-21 16:32:34 | INFO | P02 | FUNCTION 2: for loop over a list
+2026-05-21 16:32:34 | INFO | P02 | ========================
+2026-05-21 16:32:34 | INFO | P02 | New Teacher List: ['Grading', 'Parent_Contact_Log', 'PLC', 'Extra_Duties']
+2026-05-21 16:32:34 | INFO | P02 | Wrote file: a_Grading.txt
+2026-05-21 16:32:34 | INFO | P02 | Wrote file: a_Parent_Contact_Log.txt
+2026-05-21 16:32:34 | INFO | P02 | Wrote file: a_PLC.txt
+2026-05-21 16:32:34 | INFO | P02 | Wrote file: a_Extra_Duties.txt
+2026-05-21 16:32:34 | INFO | P02 | ========================
+2026-05-21 16:32:34 | INFO | P02 | FUNCTION 3: list comprehension
+2026-05-21 16:32:34 | INFO | P02 | ========================
+2026-05-21 16:32:34 | INFO | P02 | Original list: ['Grading', 'Parent_Contact_Log', 'PLC', 'Extra_Duties']
+2026-05-21 16:32:34 | INFO | P02 | Transformed list: ['HS_Grading', 'HS_Parent_Contact_Log', 'HS_PLC', 'HS_Extra_Duties']
+2026-05-21 16:32:34 | INFO | P02 | Wrote file: HS_Grading.txt
+2026-05-21 16:32:34 | INFO | P02 | Wrote file: HS_Parent_Contact_Log.txt
+2026-05-21 16:32:34 | INFO | P02 | Wrote file: HS_PLC.txt
+2026-05-21 16:32:34 | INFO | P02 | Wrote file: HS_Extra_Duties.txt
+2026-05-21 16:32:34 | INFO | P02 | ========================
+2026-05-21 16:32:34 | INFO | P02 | Executed successfully!
+2026-05-21 16:32:34 | INFO | P02 | ========================
+2026-05-21 16:33:23 | INFO | P02 | === RUN START ===
+2026-05-21 16:33:23 | INFO | P02 | project=P02
+2026-05-21 16:33:23 | INFO | P02 | repo_dir=data-fun-02-automation
+2026-05-21 16:33:23 | INFO | P02 | python=3.14.5
+2026-05-21 16:33:23 | INFO | P02 | os=Darwin 24.6.0
+2026-05-21 16:33:23 | INFO | P02 | shell=zsh
+2026-05-21 16:33:23 | INFO | P02 | cwd=.
+2026-05-21 16:33:23 | INFO | P02 | github_actions=False
+2026-05-21 16:33:23 | INFO | P02 | ========================
+2026-05-21 16:33:23 | INFO | P02 | START main()
+2026-05-21 16:33:23 | INFO | P02 | ========================
+2026-05-21 16:33:23 | INFO | P02 | ========================
+2026-05-21 16:33:23 | INFO | P02 | FUNCTION 2: for loop over a list
+2026-05-21 16:33:23 | INFO | P02 | ========================
+2026-05-21 16:33:23 | INFO | P02 | New Teacher List: ['Grading', 'Parent_Contact_Log', 'PLC', 'Extra_Duties']
+2026-05-21 16:33:23 | INFO | P02 | Wrote file: a_Grading.txt
+2026-05-21 16:33:23 | INFO | P02 | Wrote file: a_Parent_Contact_Log.txt
+2026-05-21 16:33:23 | INFO | P02 | Wrote file: a_PLC.txt
+2026-05-21 16:33:23 | INFO | P02 | Wrote file: a_Extra_Duties.txt
+2026-05-21 16:33:23 | INFO | P02 | ========================
+2026-05-21 16:33:23 | INFO | P02 | FUNCTION 3: list comprehension
+2026-05-21 16:33:23 | INFO | P02 | ========================
+2026-05-21 16:33:23 | INFO | P02 | Original list: ['Grading', 'Parent_Contact_Log', 'PLC', 'Extra_Duties']
+2026-05-21 16:33:23 | INFO | P02 | Transformed list: ['HS_Grading', 'HS_Parent_Contact_Log', 'HS_PLC', 'HS_Extra_Duties']
+2026-05-21 16:33:23 | INFO | P02 | Wrote file: HS_Grading.txt
+2026-05-21 16:33:23 | INFO | P02 | Wrote file: HS_Parent_Contact_Log.txt
+2026-05-21 16:33:23 | INFO | P02 | Wrote file: HS_PLC.txt
+2026-05-21 16:33:23 | INFO | P02 | Wrote file: HS_Extra_Duties.txt
+2026-05-21 16:33:23 | INFO | P02 | ========================
+2026-05-21 16:33:23 | INFO | P02 | Executed successfully!
+2026-05-21 16:33:23 | INFO | P02 | ========================
+2026-05-21 16:35:49 | INFO | P02 | === RUN START ===
+2026-05-21 16:35:49 | INFO | P02 | project=P02
+2026-05-21 16:35:49 | INFO | P02 | repo_dir=data-fun-02-automation
+2026-05-21 16:35:49 | INFO | P02 | python=3.14.5
+2026-05-21 16:35:49 | INFO | P02 | os=Darwin 24.6.0
+2026-05-21 16:35:49 | INFO | P02 | shell=zsh
+2026-05-21 16:35:49 | INFO | P02 | cwd=.
+2026-05-21 16:35:49 | INFO | P02 | github_actions=False
+2026-05-21 16:35:49 | INFO | P02 | ========================
+2026-05-21 16:35:49 | INFO | P02 | START main()
+2026-05-21 16:35:49 | INFO | P02 | ========================
+2026-05-21 16:35:49 | INFO | P02 | ========================
+2026-05-21 16:35:49 | INFO | P02 | FUNCTION 2: for loop over a list
+2026-05-21 16:35:49 | INFO | P02 | ========================
+2026-05-21 16:35:49 | INFO | P02 | New Teacher List: ['Grading', 'Parent_Contact_Log', 'PLC', 'Extra_Duties']
+2026-05-21 16:35:49 | INFO | P02 | Wrote file: a_Grading.txt
+2026-05-21 16:35:49 | INFO | P02 | Wrote file: a_Parent_Contact_Log.txt
+2026-05-21 16:35:49 | INFO | P02 | Wrote file: a_PLC.txt
+2026-05-21 16:35:49 | INFO | P02 | Wrote file: a_Extra_Duties.txt
+2026-05-21 16:35:49 | INFO | P02 | ========================
+2026-05-21 16:35:49 | INFO | P02 | FUNCTION 3: list comprehension
+2026-05-21 16:35:49 | INFO | P02 | ========================
+2026-05-21 16:35:49 | INFO | P02 | Original list: ['Grading', 'Parent_Contact_Log', 'PLC', 'Extra_Duties']
+2026-05-21 16:35:49 | INFO | P02 | Transformed list: ['HS_Grading', 'HS_Parent_Contact_Log', 'HS_PLC', 'HS_Extra_Duties']
+2026-05-21 16:35:49 | INFO | P02 | Wrote file: HS_Grading.txt
+2026-05-21 16:35:49 | INFO | P02 | Wrote file: HS_Parent_Contact_Log.txt
+2026-05-21 16:35:49 | INFO | P02 | Wrote file: HS_PLC.txt
+2026-05-21 16:35:49 | INFO | P02 | Wrote file: HS_Extra_Duties.txt
+2026-05-21 16:35:49 | INFO | P02 | ========================
+2026-05-21 16:35:49 | INFO | P02 | Executed successfully!
+2026-05-21 16:35:49 | INFO | P02 | ========================
+2026-05-21 16:51:16 | INFO | P02 | === RUN START ===
+2026-05-21 16:51:16 | INFO | P02 | project=P02
+2026-05-21 16:51:16 | INFO | P02 | repo_dir=data-fun-02-automation
+2026-05-21 16:51:16 | INFO | P02 | python=3.14.5
+2026-05-21 16:51:16 | INFO | P02 | os=Darwin 24.6.0
+2026-05-21 16:51:16 | INFO | P02 | shell=zsh
+2026-05-21 16:51:16 | INFO | P02 | cwd=.
+2026-05-21 16:51:16 | INFO | P02 | github_actions=False
+2026-05-21 16:51:16 | INFO | P02 | ========================
+2026-05-21 16:51:16 | INFO | P02 | START main()
+2026-05-21 16:51:16 | INFO | P02 | ========================
+2026-05-21 16:51:16 | INFO | P02 | ========================
+2026-05-21 16:51:16 | INFO | P02 | FUNCTION 2: for loop over a list
+2026-05-21 16:51:16 | INFO | P02 | ========================
+2026-05-21 16:51:16 | INFO | P02 | New Teacher List: ['Grading', 'Parent_Contact_Log', 'PLC', 'Extra_Duties']
+2026-05-21 16:51:16 | INFO | P02 | Wrote file: a_Grading.txt
+2026-05-21 16:51:16 | INFO | P02 | Wrote file: a_Parent_Contact_Log.txt
+2026-05-21 16:51:16 | INFO | P02 | Wrote file: a_PLC.txt
+2026-05-21 16:51:16 | INFO | P02 | Wrote file: a_Extra_Duties.txt
+2026-05-21 16:51:16 | INFO | P02 | ========================
+2026-05-21 16:51:16 | INFO | P02 | FUNCTION 3: list comprehension
+2026-05-21 16:51:16 | INFO | P02 | ========================
+2026-05-21 16:51:16 | INFO | P02 | Original list: ['Grading', 'Parent_Contact_Log', 'PLC', 'Extra_Duties']
+2026-05-21 16:51:16 | INFO | P02 | Transformed list: ['HS_Grading', 'HS_Parent_Contact_Log', 'HS_PLC', 'HS_Extra_Duties']
+2026-05-21 16:51:16 | INFO | P02 | Wrote file: HS_Grading.txt
+2026-05-21 16:51:16 | INFO | P02 | Wrote file: HS_Parent_Contact_Log.txt
+2026-05-21 16:51:16 | INFO | P02 | Wrote file: HS_PLC.txt
+2026-05-21 16:51:16 | INFO | P02 | Wrote file: HS_Extra_Duties.txt
+2026-05-21 16:51:16 | INFO | P02 | ========================
+2026-05-21 16:51:16 | INFO | P02 | Executed successfully!
+2026-05-21 16:51:16 | INFO | P02 | ========================

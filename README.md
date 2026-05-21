@@ -149,47 +149,37 @@ Press `Ctrl+c` (both keys together) or `Ctrl+Z` then `Enter` on Windows.
 ## Example Output
 
 ```shell
+| P02 | === RUN START ===
+| P02 | project=P02
+| P02 | repo_dir=data-fun-02-automation
+| P02 | python=3.14.5
+| P02 | os=Darwin 24.6.0
+| P02 | shell=zsh
+| P02 | cwd=.
+| P02 | github_actions=False
 | P02 | ========================
 | P02 | START main()
 | P02 | ========================
 | P02 | ========================
-| P02 | FUNCTION 1: for loop over a numeric range
-| P02 | ========================
-| P02 | First quarter: 1
-| P02 | Last quarter:  4
-| P02 | Wrote file: case_quarter_1.txt
-| P02 | Wrote file: case_quarter_2.txt
-| P02 | Wrote file: case_quarter_3.txt
-| P02 | Wrote file: case_quarter_4.txt
-| P02 | ========================
 | P02 | FUNCTION 2: for loop over a list
 | P02 | ========================
-| P02 | Pet list: ['dog', 'cat', 'fish']
-| P02 | Wrote file: a_case_dog.txt
-| P02 | Wrote file: a_case_cat.txt
-| P02 | Wrote file: a_case_fish.txt
+| P02 | New Teacher List: ['Grading', 'Parent_Contact_Log', 'PLC', 'Extra_Duties']
+| P02 | Wrote file: a_Grading.txt
+| P02 | Wrote file: a_Parent_Contact_Log.txt
+| P02 | Wrote file: a_PLC.txt
+| P02 | Wrote file: a_Extra_Duties.txt
 | P02 | ========================
 | P02 | FUNCTION 3: list comprehension
 | P02 | ========================
-| P02 | Original list: ['dog', 'cat', 'fish']
-| P02 | Transformed list: ['z_favorite_dog', 'z_favorite_cat', 'z_favorite_fish']
-| P02 | Wrote file: z_z_case_favorite_dog.txt
-| P02 | Wrote file: z_z_case_favorite_cat.txt
-| P02 | Wrote file: z_z_case_favorite_fish.txt
-| P02 | ========================
-| P02 | FUNCTION 4: while loop with counter
-| P02 | ========================
-| P02 | Files to create: 3
-| P02 | Seconds between files: 1
-| P02 | Wrote file: case_01.txt
-| P02 | Waiting 1 second(s)...
-| P02 | Wrote file: case_02.txt
-| P02 | Waiting 1 second(s)...
-| P02 | Wrote file: case_03.txt
-| P02 | Waiting 1 second(s)...
+| P02 | Original list: ['Grading', 'Parent_Contact_Log', 'PLC', 'Extra_Duties']
+| P02 | Transformed list: ['HS_Grading', 'HS_Parent_Contact_Log', 'HS_PLC', 'HS_Extra_Duties']
+| P02 | Wrote file: HS_Grading.txt
+| P02 | Wrote file: HS_Parent_Contact_Log.txt
+| P02 | Wrote file: HS_PLC.txt
+| P02 | Wrote file: HS_Extra_Duties.txt
 | P02 | ========================
 | P02 | Executed successfully!
-| P02 | ========================
+P02 | ========================
 ```
 
 ![VS Code When Running](./docs/images/vscode_when_running.png)
