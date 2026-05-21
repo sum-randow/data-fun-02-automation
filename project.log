@@ -243,3 +243,297 @@
 2026-05-18 18:43:13 | INFO | P02 | ========================
 2026-05-18 18:43:13 | INFO | P02 | Executed successfully!
 2026-05-18 18:43:13 | INFO | P02 | ========================
+2026-05-20 18:40:21 | INFO | P02 | === RUN START ===
+2026-05-20 18:40:21 | INFO | P02 | project=P02
+2026-05-20 18:40:21 | INFO | P02 | repo_dir=data-fun-02-automation
+2026-05-20 18:40:21 | INFO | P02 | python=3.14.5
+2026-05-20 18:40:21 | INFO | P02 | os=Darwin 24.6.0
+2026-05-20 18:40:21 | INFO | P02 | shell=zsh
+2026-05-20 18:40:21 | INFO | P02 | cwd=.
+2026-05-20 18:40:21 | INFO | P02 | github_actions=False
+2026-05-20 18:40:21 | INFO | P02 | ========================
+2026-05-20 18:40:21 | INFO | P02 | START main()
+2026-05-20 18:40:21 | INFO | P02 | ========================
+2026-05-20 18:40:21 | INFO | P02 | ========================
+2026-05-20 18:40:21 | INFO | P02 | FUNCTION 1: for loop over a numeric range
+2026-05-20 18:40:21 | INFO | P02 | ========================
+2026-05-20 18:40:21 | INFO | P02 | First quarter: 1
+2026-05-20 18:40:21 | INFO | P02 | Last quarter:  4
+2026-05-20 18:40:21 | INFO | P02 | Wrote file: case_quarter_1.txt
+2026-05-20 18:40:21 | INFO | P02 | Wrote file: case_quarter_2.txt
+2026-05-20 18:40:21 | INFO | P02 | Wrote file: case_quarter_3.txt
+2026-05-20 18:40:21 | INFO | P02 | Wrote file: case_quarter_4.txt
+2026-05-20 18:40:21 | INFO | P02 | ========================
+2026-05-20 18:40:21 | INFO | P02 | FUNCTION 2: for loop over a list
+2026-05-20 18:40:21 | INFO | P02 | ========================
+2026-05-20 18:40:21 | INFO | P02 | Pet list: ['dog', 'cat', 'fish']
+2026-05-20 18:40:21 | INFO | P02 | Wrote file: case_dog.txt
+2026-05-20 18:40:21 | INFO | P02 | Wrote file: case_cat.txt
+2026-05-20 18:40:21 | INFO | P02 | Wrote file: case_fish.txt
+2026-05-20 18:40:21 | INFO | P02 | ========================
+2026-05-20 18:40:21 | INFO | P02 | FUNCTION 3: list comprehension
+2026-05-20 18:40:21 | INFO | P02 | ========================
+2026-05-20 18:40:21 | INFO | P02 | Original list: ['dog', 'cat', 'fish']
+2026-05-20 18:40:21 | INFO | P02 | Transformed list: ['favorite_dog', 'favorite_cat', 'favorite_fish']
+2026-05-20 18:40:21 | INFO | P02 | Wrote file: case_favorite_dog.txt
+2026-05-20 18:40:21 | INFO | P02 | Wrote file: case_favorite_cat.txt
+2026-05-20 18:40:21 | INFO | P02 | Wrote file: case_favorite_fish.txt
+2026-05-20 18:40:21 | INFO | P02 | ========================
+2026-05-20 18:40:21 | INFO | P02 | FUNCTION 4: while loop with counter
+2026-05-20 18:40:21 | INFO | P02 | ========================
+2026-05-20 18:40:21 | INFO | P02 | Files to create: 3
+2026-05-20 18:40:21 | INFO | P02 | Seconds between files: 1
+2026-05-20 18:40:21 | INFO | P02 | Wrote file: case_01.txt
+2026-05-20 18:40:21 | INFO | P02 | Waiting 1 second(s)...
+2026-05-20 18:40:22 | INFO | P02 | Wrote file: case_02.txt
+2026-05-20 18:40:22 | INFO | P02 | Waiting 1 second(s)...
+2026-05-20 18:40:23 | INFO | P02 | Wrote file: case_03.txt
+2026-05-20 18:40:23 | INFO | P02 | Waiting 1 second(s)...
+2026-05-20 18:40:24 | INFO | P02 | ========================
+2026-05-20 18:40:24 | INFO | P02 | Executed successfully!
+2026-05-20 18:40:24 | INFO | P02 | ========================
+2026-05-20 18:42:28 | INFO | P02 | === RUN START ===
+2026-05-20 18:42:28 | INFO | P02 | project=P02
+2026-05-20 18:42:28 | INFO | P02 | repo_dir=data-fun-02-automation
+2026-05-20 18:42:28 | INFO | P02 | python=3.14.5
+2026-05-20 18:42:28 | INFO | P02 | os=Darwin 24.6.0
+2026-05-20 18:42:28 | INFO | P02 | shell=zsh
+2026-05-20 18:42:28 | INFO | P02 | cwd=.
+2026-05-20 18:42:28 | INFO | P02 | github_actions=False
+2026-05-20 18:42:28 | INFO | P02 | ========================
+2026-05-20 18:42:28 | INFO | P02 | START main()
+2026-05-20 18:42:28 | INFO | P02 | ========================
+2026-05-20 18:42:28 | INFO | P02 | ========================
+2026-05-20 18:42:28 | INFO | P02 | FUNCTION 1: for loop over a numeric range
+2026-05-20 18:42:28 | INFO | P02 | ========================
+2026-05-20 18:42:28 | INFO | P02 | First quarter: 1
+2026-05-20 18:42:28 | INFO | P02 | Last quarter:  4
+2026-05-20 18:42:28 | INFO | P02 | Wrote file: case_quarter_1.txt
+2026-05-20 18:42:28 | INFO | P02 | Wrote file: case_quarter_2.txt
+2026-05-20 18:42:28 | INFO | P02 | Wrote file: case_quarter_3.txt
+2026-05-20 18:42:28 | INFO | P02 | Wrote file: case_quarter_4.txt
+2026-05-20 18:42:28 | INFO | P02 | ========================
+2026-05-20 18:42:28 | INFO | P02 | FUNCTION 2: for loop over a list
+2026-05-20 18:42:28 | INFO | P02 | ========================
+2026-05-20 18:42:28 | INFO | P02 | Pet list: ['dog', 'cat', 'fish']
+2026-05-20 18:42:28 | INFO | P02 | Wrote file: case_dog.txt
+2026-05-20 18:42:28 | INFO | P02 | Wrote file: case_cat.txt
+2026-05-20 18:42:28 | INFO | P02 | Wrote file: case_fish.txt
+2026-05-20 18:42:28 | INFO | P02 | ========================
+2026-05-20 18:42:28 | INFO | P02 | FUNCTION 3: list comprehension
+2026-05-20 18:42:28 | INFO | P02 | ========================
+2026-05-20 18:42:28 | INFO | P02 | Original list: ['dog', 'cat', 'fish']
+2026-05-20 18:42:28 | INFO | P02 | Transformed list: ['favorite_dog', 'favorite_cat', 'favorite_fish']
+2026-05-20 18:42:28 | INFO | P02 | Wrote file: case_favorite_dog.txt
+2026-05-20 18:42:28 | INFO | P02 | Wrote file: case_favorite_cat.txt
+2026-05-20 18:42:28 | INFO | P02 | Wrote file: case_favorite_fish.txt
+2026-05-20 18:42:28 | INFO | P02 | ========================
+2026-05-20 18:42:28 | INFO | P02 | FUNCTION 4: while loop with counter
+2026-05-20 18:42:28 | INFO | P02 | ========================
+2026-05-20 18:42:28 | INFO | P02 | Files to create: 3
+2026-05-20 18:42:28 | INFO | P02 | Seconds between files: 1
+2026-05-20 18:42:28 | INFO | P02 | Wrote file: case_01.txt
+2026-05-20 18:42:28 | INFO | P02 | Waiting 1 second(s)...
+2026-05-20 18:42:29 | INFO | P02 | Wrote file: case_02.txt
+2026-05-20 18:42:29 | INFO | P02 | Waiting 1 second(s)...
+2026-05-20 18:42:31 | INFO | P02 | Wrote file: case_03.txt
+2026-05-20 18:42:31 | INFO | P02 | Waiting 1 second(s)...
+2026-05-20 18:42:32 | INFO | P02 | ========================
+2026-05-20 18:42:32 | INFO | P02 | Executed successfully!
+2026-05-20 18:42:32 | INFO | P02 | ========================
+2026-05-20 18:44:09 | INFO | P02 | === RUN START ===
+2026-05-20 18:44:09 | INFO | P02 | project=P02
+2026-05-20 18:44:09 | INFO | P02 | repo_dir=data-fun-02-automation
+2026-05-20 18:44:09 | INFO | P02 | python=3.14.5
+2026-05-20 18:44:09 | INFO | P02 | os=Darwin 24.6.0
+2026-05-20 18:44:09 | INFO | P02 | shell=zsh
+2026-05-20 18:44:09 | INFO | P02 | cwd=.
+2026-05-20 18:44:09 | INFO | P02 | github_actions=False
+2026-05-20 18:44:09 | INFO | P02 | ========================
+2026-05-20 18:44:09 | INFO | P02 | START main()
+2026-05-20 18:44:09 | INFO | P02 | ========================
+2026-05-20 18:44:09 | INFO | P02 | ========================
+2026-05-20 18:44:09 | INFO | P02 | FUNCTION 1: for loop over a numeric range
+2026-05-20 18:44:09 | INFO | P02 | ========================
+2026-05-20 18:44:09 | INFO | P02 | First quarter: 1
+2026-05-20 18:44:09 | INFO | P02 | Last quarter:  4
+2026-05-20 18:44:09 | INFO | P02 | Wrote file: case_quarter_1.txt
+2026-05-20 18:44:09 | INFO | P02 | Wrote file: case_quarter_2.txt
+2026-05-20 18:44:09 | INFO | P02 | Wrote file: case_quarter_3.txt
+2026-05-20 18:44:09 | INFO | P02 | Wrote file: case_quarter_4.txt
+2026-05-20 18:44:09 | INFO | P02 | ========================
+2026-05-20 18:44:09 | INFO | P02 | FUNCTION 2: for loop over a list
+2026-05-20 18:44:09 | INFO | P02 | ========================
+2026-05-20 18:44:09 | INFO | P02 | Pet list: ['dog', 'cat', 'fish']
+2026-05-20 18:44:09 | INFO | P02 | Wrote file: case_dog.txt
+2026-05-20 18:44:09 | INFO | P02 | Wrote file: case_cat.txt
+2026-05-20 18:44:09 | INFO | P02 | Wrote file: case_fish.txt
+2026-05-20 18:44:09 | INFO | P02 | ========================
+2026-05-20 18:44:09 | INFO | P02 | FUNCTION 3: list comprehension
+2026-05-20 18:44:09 | INFO | P02 | ========================
+2026-05-20 18:44:09 | INFO | P02 | Original list: ['dog', 'cat', 'fish']
+2026-05-20 18:44:09 | INFO | P02 | Transformed list: ['favorite_dog', 'favorite_cat', 'favorite_fish']
+2026-05-20 18:44:09 | INFO | P02 | Wrote file: case_favorite_dog.txt
+2026-05-20 18:44:09 | INFO | P02 | Wrote file: case_favorite_cat.txt
+2026-05-20 18:44:09 | INFO | P02 | Wrote file: case_favorite_fish.txt
+2026-05-20 18:44:09 | INFO | P02 | ========================
+2026-05-20 18:44:09 | INFO | P02 | FUNCTION 4: while loop with counter
+2026-05-20 18:44:09 | INFO | P02 | ========================
+2026-05-20 18:44:09 | INFO | P02 | Files to create: 3
+2026-05-20 18:44:09 | INFO | P02 | Seconds between files: 1
+2026-05-20 18:44:09 | INFO | P02 | Wrote file: case_01.txt
+2026-05-20 18:44:09 | INFO | P02 | Waiting 1 second(s)...
+2026-05-20 18:44:10 | INFO | P02 | Wrote file: case_02.txt
+2026-05-20 18:44:10 | INFO | P02 | Waiting 1 second(s)...
+2026-05-20 18:44:11 | INFO | P02 | Wrote file: case_03.txt
+2026-05-20 18:44:11 | INFO | P02 | Waiting 1 second(s)...
+2026-05-20 18:44:12 | INFO | P02 | ========================
+2026-05-20 18:44:12 | INFO | P02 | Executed successfully!
+2026-05-20 18:44:12 | INFO | P02 | ========================
+2026-05-20 18:46:37 | INFO | P02 | === RUN START ===
+2026-05-20 18:46:37 | INFO | P02 | project=P02
+2026-05-20 18:46:37 | INFO | P02 | repo_dir=data-fun-02-automation
+2026-05-20 18:46:37 | INFO | P02 | python=3.14.5
+2026-05-20 18:46:37 | INFO | P02 | os=Darwin 24.6.0
+2026-05-20 18:46:37 | INFO | P02 | shell=zsh
+2026-05-20 18:46:37 | INFO | P02 | cwd=.
+2026-05-20 18:46:37 | INFO | P02 | github_actions=False
+2026-05-20 18:46:37 | INFO | P02 | ========================
+2026-05-20 18:46:37 | INFO | P02 | START main()
+2026-05-20 18:46:37 | INFO | P02 | ========================
+2026-05-20 18:46:37 | INFO | P02 | ========================
+2026-05-20 18:46:37 | INFO | P02 | FUNCTION 1: for loop over a numeric range
+2026-05-20 18:46:37 | INFO | P02 | ========================
+2026-05-20 18:46:37 | INFO | P02 | First quarter: 1
+2026-05-20 18:46:37 | INFO | P02 | Last quarter:  4
+2026-05-20 18:46:37 | INFO | P02 | Wrote file: case_quarter_1.txt
+2026-05-20 18:46:37 | INFO | P02 | Wrote file: case_quarter_2.txt
+2026-05-20 18:46:37 | INFO | P02 | Wrote file: case_quarter_3.txt
+2026-05-20 18:46:37 | INFO | P02 | Wrote file: case_quarter_4.txt
+2026-05-20 18:46:37 | INFO | P02 | ========================
+2026-05-20 18:46:37 | INFO | P02 | FUNCTION 2: for loop over a list
+2026-05-20 18:46:37 | INFO | P02 | ========================
+2026-05-20 18:46:37 | INFO | P02 | Pet list: ['dog', 'cat', 'fish']
+2026-05-20 18:46:37 | INFO | P02 | Wrote file: case_dog.txt
+2026-05-20 18:46:37 | INFO | P02 | Wrote file: case_cat.txt
+2026-05-20 18:46:37 | INFO | P02 | Wrote file: case_fish.txt
+2026-05-20 18:46:37 | INFO | P02 | ========================
+2026-05-20 18:46:37 | INFO | P02 | FUNCTION 3: list comprehension
+2026-05-20 18:46:37 | INFO | P02 | ========================
+2026-05-20 18:46:37 | INFO | P02 | Original list: ['dog', 'cat', 'fish']
+2026-05-20 18:46:37 | INFO | P02 | Transformed list: ['favorite_dog', 'favorite_cat', 'favorite_fish']
+2026-05-20 18:46:37 | INFO | P02 | Wrote file: case_favorite_dog.txt
+2026-05-20 18:46:37 | INFO | P02 | Wrote file: case_favorite_cat.txt
+2026-05-20 18:46:37 | INFO | P02 | Wrote file: case_favorite_fish.txt
+2026-05-20 18:46:37 | INFO | P02 | ========================
+2026-05-20 18:46:37 | INFO | P02 | FUNCTION 4: while loop with counter
+2026-05-20 18:46:37 | INFO | P02 | ========================
+2026-05-20 18:46:37 | INFO | P02 | Files to create: 3
+2026-05-20 18:46:37 | INFO | P02 | Seconds between files: 1
+2026-05-20 18:46:37 | INFO | P02 | Wrote file: case_01.txt
+2026-05-20 18:46:37 | INFO | P02 | Waiting 1 second(s)...
+2026-05-20 18:46:38 | INFO | P02 | Wrote file: case_02.txt
+2026-05-20 18:46:38 | INFO | P02 | Waiting 1 second(s)...
+2026-05-20 18:46:39 | INFO | P02 | Wrote file: case_03.txt
+2026-05-20 18:46:39 | INFO | P02 | Waiting 1 second(s)...
+2026-05-20 18:46:40 | INFO | P02 | ========================
+2026-05-20 18:46:40 | INFO | P02 | Executed successfully!
+2026-05-20 18:46:40 | INFO | P02 | ========================
+2026-05-20 18:47:12 | INFO | P02 | === RUN START ===
+2026-05-20 18:47:12 | INFO | P02 | project=P02
+2026-05-20 18:47:12 | INFO | P02 | repo_dir=data-fun-02-automation
+2026-05-20 18:47:12 | INFO | P02 | python=3.14.5
+2026-05-20 18:47:12 | INFO | P02 | os=Darwin 24.6.0
+2026-05-20 18:47:12 | INFO | P02 | shell=zsh
+2026-05-20 18:47:12 | INFO | P02 | cwd=.
+2026-05-20 18:47:12 | INFO | P02 | github_actions=False
+2026-05-20 18:47:12 | INFO | P02 | ========================
+2026-05-20 18:47:12 | INFO | P02 | START main()
+2026-05-20 18:47:12 | INFO | P02 | ========================
+2026-05-20 18:47:12 | INFO | P02 | ========================
+2026-05-20 18:47:12 | INFO | P02 | FUNCTION 1: for loop over a numeric range
+2026-05-20 18:47:12 | INFO | P02 | ========================
+2026-05-20 18:47:12 | INFO | P02 | First quarter: 1
+2026-05-20 18:47:12 | INFO | P02 | Last quarter:  4
+2026-05-20 18:47:12 | INFO | P02 | Wrote file: case_quarter_1.txt
+2026-05-20 18:47:12 | INFO | P02 | Wrote file: case_quarter_2.txt
+2026-05-20 18:47:12 | INFO | P02 | Wrote file: case_quarter_3.txt
+2026-05-20 18:47:12 | INFO | P02 | Wrote file: case_quarter_4.txt
+2026-05-20 18:47:12 | INFO | P02 | ========================
+2026-05-20 18:47:12 | INFO | P02 | FUNCTION 2: for loop over a list
+2026-05-20 18:47:12 | INFO | P02 | ========================
+2026-05-20 18:47:12 | INFO | P02 | Pet list: ['dog', 'cat', 'fish']
+2026-05-20 18:47:12 | INFO | P02 | Wrote file: case_dog.txt
+2026-05-20 18:47:12 | INFO | P02 | Wrote file: case_cat.txt
+2026-05-20 18:47:12 | INFO | P02 | Wrote file: case_fish.txt
+2026-05-20 18:47:12 | INFO | P02 | ========================
+2026-05-20 18:47:12 | INFO | P02 | FUNCTION 3: list comprehension
+2026-05-20 18:47:12 | INFO | P02 | ========================
+2026-05-20 18:47:12 | INFO | P02 | Original list: ['dog', 'cat', 'fish']
+2026-05-20 18:47:12 | INFO | P02 | Transformed list: ['favorite_dog', 'favorite_cat', 'favorite_fish']
+2026-05-20 18:47:12 | INFO | P02 | Wrote file: z_favorite_dog.txt
+2026-05-20 18:47:12 | INFO | P02 | Wrote file: z_favorite_cat.txt
+2026-05-20 18:47:12 | INFO | P02 | Wrote file: z_favorite_fish.txt
+2026-05-20 18:47:12 | INFO | P02 | ========================
+2026-05-20 18:47:12 | INFO | P02 | FUNCTION 4: while loop with counter
+2026-05-20 18:47:12 | INFO | P02 | ========================
+2026-05-20 18:47:12 | INFO | P02 | Files to create: 3
+2026-05-20 18:47:12 | INFO | P02 | Seconds between files: 1
+2026-05-20 18:47:12 | INFO | P02 | Wrote file: case_01.txt
+2026-05-20 18:47:12 | INFO | P02 | Waiting 1 second(s)...
+2026-05-20 18:47:13 | INFO | P02 | Wrote file: case_02.txt
+2026-05-20 18:47:13 | INFO | P02 | Waiting 1 second(s)...
+2026-05-20 18:47:14 | INFO | P02 | Wrote file: case_03.txt
+2026-05-20 18:47:14 | INFO | P02 | Waiting 1 second(s)...
+2026-05-20 18:47:15 | INFO | P02 | ========================
+2026-05-20 18:47:15 | INFO | P02 | Executed successfully!
+2026-05-20 18:47:15 | INFO | P02 | ========================
+2026-05-20 18:49:47 | INFO | P02 | === RUN START ===
+2026-05-20 18:49:47 | INFO | P02 | project=P02
+2026-05-20 18:49:47 | INFO | P02 | repo_dir=data-fun-02-automation
+2026-05-20 18:49:47 | INFO | P02 | python=3.14.5
+2026-05-20 18:49:47 | INFO | P02 | os=Darwin 24.6.0
+2026-05-20 18:49:47 | INFO | P02 | shell=zsh
+2026-05-20 18:49:47 | INFO | P02 | cwd=.
+2026-05-20 18:49:47 | INFO | P02 | github_actions=False
+2026-05-20 18:49:47 | INFO | P02 | ========================
+2026-05-20 18:49:47 | INFO | P02 | START main()
+2026-05-20 18:49:47 | INFO | P02 | ========================
+2026-05-20 18:49:47 | INFO | P02 | ========================
+2026-05-20 18:49:47 | INFO | P02 | FUNCTION 1: for loop over a numeric range
+2026-05-20 18:49:47 | INFO | P02 | ========================
+2026-05-20 18:49:47 | INFO | P02 | First quarter: 1
+2026-05-20 18:49:47 | INFO | P02 | Last quarter:  4
+2026-05-20 18:49:47 | INFO | P02 | Wrote file: case_quarter_1.txt
+2026-05-20 18:49:47 | INFO | P02 | Wrote file: case_quarter_2.txt
+2026-05-20 18:49:47 | INFO | P02 | Wrote file: case_quarter_3.txt
+2026-05-20 18:49:47 | INFO | P02 | Wrote file: case_quarter_4.txt
+2026-05-20 18:49:47 | INFO | P02 | ========================
+2026-05-20 18:49:47 | INFO | P02 | FUNCTION 2: for loop over a list
+2026-05-20 18:49:47 | INFO | P02 | ========================
+2026-05-20 18:49:47 | INFO | P02 | Pet list: ['dog', 'cat', 'fish']
+2026-05-20 18:49:47 | INFO | P02 | Wrote file: a_dog.txt
+2026-05-20 18:49:47 | INFO | P02 | Wrote file: a_cat.txt
+2026-05-20 18:49:47 | INFO | P02 | Wrote file: a_fish.txt
+2026-05-20 18:49:47 | INFO | P02 | ========================
+2026-05-20 18:49:47 | INFO | P02 | FUNCTION 3: list comprehension
+2026-05-20 18:49:47 | INFO | P02 | ========================
+2026-05-20 18:49:47 | INFO | P02 | Original list: ['dog', 'cat', 'fish']
+2026-05-20 18:49:47 | INFO | P02 | Transformed list: ['z_favorite_dog', 'z_favorite_cat', 'z_favorite_fish']
+2026-05-20 18:49:47 | INFO | P02 | Wrote file: z_z_favorite_dog.txt
+2026-05-20 18:49:47 | INFO | P02 | Wrote file: z_z_favorite_cat.txt
+2026-05-20 18:49:47 | INFO | P02 | Wrote file: z_z_favorite_fish.txt
+2026-05-20 18:49:47 | INFO | P02 | ========================
+2026-05-20 18:49:47 | INFO | P02 | FUNCTION 4: while loop with counter
+2026-05-20 18:49:47 | INFO | P02 | ========================
+2026-05-20 18:49:47 | INFO | P02 | Files to create: 3
+2026-05-20 18:49:47 | INFO | P02 | Seconds between files: 1
+2026-05-20 18:49:47 | INFO | P02 | Wrote file: case_01.txt
+2026-05-20 18:49:47 | INFO | P02 | Waiting 1 second(s)...
+2026-05-20 18:49:48 | INFO | P02 | Wrote file: case_02.txt
+2026-05-20 18:49:48 | INFO | P02 | Waiting 1 second(s)...
+2026-05-20 18:49:49 | INFO | P02 | Wrote file: case_03.txt
+2026-05-20 18:49:49 | INFO | P02 | Waiting 1 second(s)...
+2026-05-20 18:49:50 | INFO | P02 | ========================
+2026-05-20 18:49:50 | INFO | P02 | Executed successfully!
+2026-05-20 18:49:50 | INFO | P02 | ========================

@@ -114,7 +114,7 @@ git add -A
 uvx pre-commit run --all-files
 
 # run the module
-uv run python -m datafun.app_case
+uv run python -m datafun.app_sum-randow
 
 # do chores
 uv run ruff format .
@@ -165,17 +165,17 @@ Press `Ctrl+c` (both keys together) or `Ctrl+Z` then `Enter` on Windows.
 | P02 | FUNCTION 2: for loop over a list
 | P02 | ========================
 | P02 | Pet list: ['dog', 'cat', 'fish']
-| P02 | Wrote file: case_dog.txt
-| P02 | Wrote file: case_cat.txt
-| P02 | Wrote file: case_fish.txt
+| P02 | Wrote file: a_case_dog.txt
+| P02 | Wrote file: a_case_cat.txt
+| P02 | Wrote file: a_case_fish.txt
 | P02 | ========================
 | P02 | FUNCTION 3: list comprehension
 | P02 | ========================
 | P02 | Original list: ['dog', 'cat', 'fish']
-| P02 | Transformed list: ['favorite_dog', 'favorite_cat', 'favorite_fish']
-| P02 | Wrote file: case_favorite_dog.txt
-| P02 | Wrote file: case_favorite_cat.txt
-| P02 | Wrote file: case_favorite_fish.txt
+| P02 | Transformed list: ['z_favorite_dog', 'z_favorite_cat', 'z_favorite_fish']
+| P02 | Wrote file: z_z_case_favorite_dog.txt
+| P02 | Wrote file: z_z_case_favorite_cat.txt
+| P02 | Wrote file: z_z_case_favorite_fish.txt
 | P02 | ========================
 | P02 | FUNCTION 4: while loop with counter
 | P02 | ========================
